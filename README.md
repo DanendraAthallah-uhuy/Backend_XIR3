@@ -23,6 +23,8 @@ Mapel: Produktif
 - Register User
 - Login User (JWT Authentication)
 - Add Presensi
+- Analysis Kehadiran
+- Rekap Kehadiran Bulanan
 - Akses API menggunakan token
 
 ## Cara Menjalankan Program
@@ -40,19 +42,19 @@ Mapel: Produktif
 ## Dokumentasi Program
 
 ### 1. Struktur Folder
-![Struktur Folder](assets/images/folder.png)
+<img width="245" height="476" alt="Cuplikan layar 2025-11-03 195035" src="https://github.com/user-attachments/assets/0e01b956-b2d9-49e1-a01a-13a78462af3d" />
 
 ### 2. Login (Postman)
-![Login](assets/images/login.png)
+<img width="1064" height="851" alt="Cuplikan layar 2025-11-03 183359" src="https://github.com/user-attachments/assets/6a133a53-20f6-456c-8319-1eab1ea9fc5c" />
 
 ### 3. Add User (POST)
-![Add User](assets/images/add-user.png)
+<img width="1071" height="865" alt="Cuplikan layar 2025-11-03 183109" src="https://github.com/user-attachments/assets/43f3bf57-fadc-486c-940c-0a8065898d08" />
 
 ### 4. Add Presensi (POST)
-![Add Presensi](assets/images/add-presensi.png)
+<img width="1072" height="852" alt="Cuplikan layar 2025-11-03 183155" src="https://github.com/user-attachments/assets/0814a79b-be34-4dab-987b-85220a293a34" />
 
 ### 5. Analysis
-![Analysis](assets/images/analysis.png)
+<img width="1175" height="908" alt="Cuplikan layar 2025-11-03 183326" src="https://github.com/user-attachments/assets/10fe0ee7-cb6d-4050-bcfc-2bcf0952533b" />
 
 ### 6. Summary
-![Summary](assets/images/summary.png)
+<img width="1069" height="822" alt="Cuplikan layar 2025-11-03 183219" src="https://github.com/user-attachments/assets/8a863d4d-0487-47b5-9f71-c1d71aa83660" />

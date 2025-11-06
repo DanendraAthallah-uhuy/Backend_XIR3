@@ -14,7 +14,7 @@ Mapel: Produktif
 - Prisma
 - MySQL
 - JWT
-- bcrypt
+- md5
 - dotenv
 - body-parser
 - nodemon
